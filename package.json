@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AIPowerGrid/primeaid-rpc"
+    "url": "https://github.com/PrimeCryptoCoin/primeaid-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -31,7 +31,7 @@
     "async": "2.6.2"
   },
   "bugs": {
-    "url": "https://github.com/AIPowerGrid/primeaid-rpc/issues"
+    "url": "https://github.com/PrimeCryptoCoin/primeaid-rpc/issues"
   },
-  "homepage": "https://github.com/AIPowerGrid/primeaid-rpc"
+  "homepage": "https://github.com/PrimeCryptoCoin/primeaid-rpc"
 }
